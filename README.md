@@ -4,6 +4,12 @@ Yapımcı: **Ekrem Malik**
 
 React + Vite + HTML5 Canvas. Harici oyun motoru yok.
 
+## Oyna
+
+https://ekrem-malik.github.io/meteor-avcisi/
+
+`main` dalına yapılan her değişiklik otomatik olarak yayınlanır.
+
 ## Çalıştırma
 
 ```bash
